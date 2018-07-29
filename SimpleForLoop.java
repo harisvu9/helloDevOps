@@ -2,7 +2,7 @@ package com.java2novice.loops;
 
 public class SimpleForLoop {
 
-    public static void main(String[] args)){
+    public static void main(String[] args){
         //simple for loop to print from 1 to 10
         /**
          * here int i=1; means at the beginning of the
