@@ -1,3 +1,5 @@
 text from OBJ/obj.txt
 
 Added additional line for before check
+
+This line is being added after adding OBJ/ to the .gitignore file. But cache was not cleared.
