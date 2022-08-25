@@ -1,1 +1,3 @@
-abcdefzyxw-change-2-second-attempt-expected-change-even after gitignore
+This line is being added after adding OBJ/ to the .gitignore file and also cache was cleared.
+
+This file should be supposed to be in the github.
