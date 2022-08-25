@@ -1,1 +1,3 @@
 text from OBJ/obj.txt
+
+Added additional line for before check
